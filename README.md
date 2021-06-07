@@ -5,7 +5,7 @@ I'm Front-end developer
   - https://www.linkedin.com/in/dmytro-lukianenko/
   - DmytroLukianenko93@gmail.com
   
-🔭 I’m currently free for some interesting offer
+🔭 I’m currently open for some interesting offer
 
 Programming Languages:
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
