@@ -28,7 +28,7 @@ Other:
 In Progress:
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrolukianenko&show_icons=true&theme=highcontrast )](https://github.com/dmytrolukianenko/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrolukianenko&show_icons=true&count_private=true&theme=highcontrast )](https://github.com/dmytrolukianenko/github-readme-stats)
 <!--
 **DmytroLukianenko/DmytroLukianenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
