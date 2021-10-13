@@ -2,7 +2,7 @@
 
 I'm Front-end developer and currently work in Turn.sk
 
-📫 How to reach me: 
+📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   - https://www.linkedin.com/in/dmytro-lukianenko/
   - DmytroLukianenko93@gmail.com
 
