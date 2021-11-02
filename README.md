@@ -2,13 +2,12 @@
 
 I'm Front-end developer in Turn.sk
 
-📫 How to reach me: 
+📫 <h3>How to reach me</h3>
 [![Linkedin Badge](https://img.shields.io/badge/-Lukianenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytro-lukianenko/)](https://www.linkedin.com/in/dmytro-lukianenko/)
 [![Instagram Badge](https://img.shields.io/badge/-dima_viac-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dima_viac/)](https://www.instagram.com/dima_viac/)
 [![Gmail Badge](https://img.shields.io/badge/-DmytroLukianenko93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:DmytroLukianenko93@gmail.com)](mailto:DmytroLukianenko93@gmail.com)
 
-Tech stack:
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Tech stack:<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -20,7 +19,7 @@ Tech stack:
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-In Progress:
+<h3>In Progress</h3>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 
