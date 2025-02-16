@@ -1,6 +1,6 @@
 ### Hi there, I'm Dima <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😉
 
-I'm Front-end developer in Turn.sk
+I'm Front-end developer in
 
 📫 <h3>How to reach me</h3>
 [![Linkedin Badge](https://img.shields.io/badge/-Lukianenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytro-lukianenko/)](https://www.linkedin.com/in/dmytro-lukianenko/)
